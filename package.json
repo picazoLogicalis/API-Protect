@@ -16,6 +16,7 @@
   "devDependencies": {
     "@eslint/js": "^10",
     "@types/node": "^22",
+    "@zuplo/cli": "^6.70.16",
     "eslint": "^10",
     "eslint-config-prettier": "^10",
     "prettier": "^3",
